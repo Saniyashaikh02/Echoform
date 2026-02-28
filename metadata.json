@@ -1,0 +1,5 @@
+{
+  "name": "Vessel: Soul Shifter",
+  "description": "A 2D roguelike where you absorb enemies to survive. Swap bodies or steal abilities, but beware of the decay.",
+  "requestFramePermissions": []
+}
